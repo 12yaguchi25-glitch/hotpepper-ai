@@ -41,7 +41,20 @@ return (
   <br />
   <br />
 
-  <button onClick={generateReply}>
+  <button onClick={generateReply}
+style={{
+backgroundColor: "#111827",
+color: "white",
+border: "none",
+padding: "14px 24px",
+borderRadius: "12px",
+fontSize: "16px",
+fontWeight: "bold",
+cursor: "pointer",
+boxShadow:
+"0 4px 12px rgba(0,0,0,0.15)",
+transition: "0.2s",
+}}>
     AI返信生成
   </button>
 
