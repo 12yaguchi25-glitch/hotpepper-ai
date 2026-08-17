@@ -50,7 +50,7 @@ export default function Home() {
       }}
     >
       <h1 style={{ fontSize: 32, marginBottom: 20 }}>
-        💇‍♀️ 口コミAI返信
+        口コミAI返信
       </h1>
 
       <textarea
